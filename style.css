@@ -139,12 +139,12 @@ body::-webkit-scrollbar {
 
 body::-webkit-scrollbar-thumb {
   height: 15%;
-  background: #000;
+  background: #FF9292;
   border-radius: 10px;
 }
 
 body::-webkit-scrollbar-track {
-  background: #fff;
+  background: #FFF7F5;
 }
 .swiper-horizontal {
   touch-action: auto;
